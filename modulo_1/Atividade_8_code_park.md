@@ -7,3 +7,6 @@ Utilizando o Google Blockly construa o algoritmos que realiza esse processamento
 # Resolução
 
 ![image](https://github.com/rogerdox/fap_softex/assets/116037752/edbccaea-2932-4598-94c4-160f1a50c0c2)
+
+link
+https://blockly-demo.appspot.com/static/demos/code/index.html?lang=pt-br#jicavc
