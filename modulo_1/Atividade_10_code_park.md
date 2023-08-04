@@ -11,7 +11,7 @@ No sistema, todos os valores devem estar armazenados em variáveis.
 
 # Resolução
 
-![image](https://github.com/rogerdox/fap_softex/assets/116037752/d35819d1-8085-4902-97cc-43ea58aadf6c)
+![image](https://github.com/rogerdox/fap_softex/assets/116037752/32e6e2f4-88e6-400b-9b25-12a59143282c)
 
 Link
 https://blockly-demo.appspot.com/static/demos/code/index.html?lang=pt-br
