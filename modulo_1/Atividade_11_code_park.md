@@ -16,6 +16,3 @@ Com essas informações, o programa mostrará qual é a melhor categoria de habi
 # Resolução
 
 ![image](https://github.com/rogerdox/fap_softex/assets/116037752/2344d7c1-4c9f-4913-986e-e4d3556c7657)
-
-Link:
-https://blockly-demo.appspot.com/static/demos/code/index.html?lang=pt-br
