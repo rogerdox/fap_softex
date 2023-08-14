@@ -11,7 +11,7 @@ O código deve perguntar se deseja finalizar a votação depois do voto. Caso o 
 Quando a votação for finalizada, o código deverá mostrar o vencedor, aquele com o maior número de votos e, também, a quantidade de votos de cada candidato, os brancos e nulos. 
 
 # Resolução
-j.s´´´
+```j.s
 function contabilizar(voto, vetor_votos){
   switch(voto){
     case 889:
@@ -60,4 +60,4 @@ var voto = parseInt(prompt("Qual o número do candidato ? " ))
     console.log("Insira um número valido")
   }
 }
-´´´
+```
